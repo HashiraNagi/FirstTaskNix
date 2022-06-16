@@ -1,2 +1,3 @@
 Initial message
 New massage
+Text from branch1
